@@ -10,3 +10,9 @@
 测试集	10000	    10000	
 
 总共	260000	   260000   	96	          162
+
+也可以直接从网盘获取
+
+
+链接：https：// pan.baidu.com/s/1M05yQF1KjQEouxQcgrDrjA 
+提取码：tx3m
